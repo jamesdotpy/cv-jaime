@@ -35,6 +35,12 @@
     align-items: center;
 }
 
+.foto-proyecto img{
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+}
+
 #sobre-mi{
     max-width: 700px;
     margin: auto;
