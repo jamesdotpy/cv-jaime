@@ -26,8 +26,7 @@
 
 #proyectos{
     max-width: 700px;
-    margin: auto;
-    
+    margin: auto;    
 }
 
 .proyectos-container{
@@ -39,6 +38,16 @@
     width: 150px;
     height: 150px;
     border-radius: 10px;
+}
+
+.btn-proyecto{
+    width: 100px;
+    height: 30px;
+    background-color: #7A73D1;
+    border: none;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
 }
 
 #sobre-mi{
